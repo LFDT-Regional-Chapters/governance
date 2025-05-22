@@ -4,7 +4,27 @@ teams:
       - ryjones
     members:
       - thelinuxfoundation
-  - name: LFDT-Japan-Chapter-editors
+  - name: lfdt-brazil-chapter-editors
+    maintainers:
+      - ryjones
+    members:
+      - thelinuxfoundation
+  - name: lfdt-european-chapter-editors
+    maintainers:
+      - ryjones
+    members:
+      - thelinuxfoundation
+  - name: lfdt-india-chapter-editors
+    maintainers:
+      - ryjones
+    members:
+      - thelinuxfoundation
+  - name: lfdt-japan-chapter-editors
+    maintainers:
+      - ryjones
+    members:
+      - thelinuxfoundation
+  - name: lfdt-latinoamerica-chapter-editors
     maintainers:
       - ryjones
     members:
@@ -15,8 +35,28 @@ repositories:
     teams:
       lf-staff: maintain
     visibility: public
+  - name: LFDT-Brazil-Chapter
+    teams:
+      lf-staff: maintain
+      lfdt-brazil-chapter-editors: maintain
+    visibility: public
+  - name: LFDT-European-Chapter
+    teams:
+      lf-staff: maintain
+      lfdt-european-chapter-editors: maintain
+    visibility: public
+  - name: LFDT-India-Chapter
+    teams:
+      lf-staff: maintain
+      lfdt-india-chapter-editors: maintain
+    visibility: public
   - name: LFDT-Japan-Chapter
     teams:
       lf-staff: maintain
-      LFDT-Japan-Chapter-editors: maintain
+      lfdt-japan-chapter-editors: maintain
+    visibility: public
+  - name: LFDT-Latinoamerica-Chapter
+    teams:
+      lf-staff: maintain
+      lfdt-latinoamerica-chapter-editors: maintain
     visibility: public
