@@ -1,0 +1,22 @@
+teams:
+  - name: lf-staff
+    maintainers:
+      - ryjones
+    members:
+      - thelinuxfoundation
+  - name: LFDT-Japan-Chapter-editors
+    maintainers:
+      - ryjones
+    members:
+      - thelinuxfoundation
+
+repositories:
+  - name: governance
+    teams:
+      lf-staff: maintain
+    visibility: public
+  - name: LFDT-Japan-Chapter
+    teams:
+      lf-staff: maintain
+      LFDT-Japan-Chapter-editors: maintain
+    visibility: public
