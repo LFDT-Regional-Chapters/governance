@@ -13,7 +13,7 @@ teams:
     maintainers:
       - ryjones
     members:
-      - thelinuxfoundation
+      -  mh-put-00
   - name: lfdt-india-chapter-editors
     maintainers:
       - ryjones
