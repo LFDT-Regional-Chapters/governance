@@ -3,7 +3,8 @@ teams:
     maintainers:
       - ryjones
     members:
-      - thelinuxfoundation
+      - davidwboswell
+      - minyu66
   - name: lfdt-brazil-chapter-editors
     maintainers:
       - ryjones
