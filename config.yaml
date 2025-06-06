@@ -24,7 +24,9 @@ teams:
     maintainers:
       - ryjones
     members:
-      - thelinuxfoundation
+      - dnakashima
+      - satota2
+      - sfuji822
   - name: lfdt-latinoamerica-chapter-editors
     maintainers:
       - ryjones
