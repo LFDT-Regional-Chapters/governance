@@ -5,11 +5,12 @@ teams:
     members:
       - davidwboswell
       - minyu66
+      - daniela-barbosa
   - name: lfdt-brazil-chapter-editors
     maintainers:
       - ryjones
     members:
-      - thelinuxfoundation
+      - jteider
   - name: lfdt-european-chapter-editors
     maintainers:
       - ryjones
