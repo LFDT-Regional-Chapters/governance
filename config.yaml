@@ -8,9 +8,9 @@ teams:
       - daniela-barbosa
   - name: lfdt-brazil-chapter-editors
     maintainers:
-      - ryjones
-    members:
       - jteider
+    members:
+      - Jeankteixeira
   - name: lfdt-european-chapter-editors
     maintainers:
       - ryjones
