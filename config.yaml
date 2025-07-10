@@ -18,13 +18,13 @@ teams:
       -  mh-put-00
   - name: lfdt-india-chapter-editors
     maintainers:
-      - ryjones
+      - knagware9
     members:
       - A1kartikey
-      - ankita-p17
       - BiniWorld
+      - RedKnight13
+      - ankita-p17
       - garimamiet
-      - knagware9
       - sharmawiki
   - name: lfdt-japan-chapter-editors
     maintainers:
