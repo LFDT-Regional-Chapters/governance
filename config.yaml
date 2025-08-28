@@ -3,9 +3,10 @@ teams:
     maintainers:
       - ryjones
     members:
+      - christinaharter
+      - daniela-barbosa
       - davidwboswell
       - minyu66
-      - daniela-barbosa
   - name: lfdt-brazil-chapter-editors
     maintainers:
       - jteider
