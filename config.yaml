@@ -17,9 +17,7 @@ teams:
       - marianabenedett
   - name: lfdt-european-chapter-editors
     maintainers:
-      - ryjones
-    members:
-      -  mh-put-00
+      - mh-put-00
   - name: lfdt-india-chapter-editors
     maintainers:
       - knagware9
@@ -32,10 +30,9 @@ teams:
       - sharmawiki
   - name: lfdt-japan-chapter-editors
     maintainers:
-      - ryjones
+      - satota2
     members:
       - dnakashima
-      - satota2
       - sfuji822
   - name: lfdt-latinoamerica-chapter-editors
     maintainers:
