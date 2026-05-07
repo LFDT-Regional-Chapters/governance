@@ -6,7 +6,6 @@ teams:
       - christinaharter
       - daniela-barbosa
       - davidwboswell
-      - minyu66
   - name: lfdt-brazil-chapter-editors
     maintainers:
       - jteider
@@ -14,7 +13,6 @@ teams:
       - Jeankteixeira
       - JoaoDant4s
       - LuizGuFaMartins
-      - marianabenedett
   - name: lfdt-european-chapter-editors
     maintainers:
       - mh-put-00
